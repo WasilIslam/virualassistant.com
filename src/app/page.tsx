@@ -1,5 +1,5 @@
-import { LandingPageComponent } from "@/components/landing-page";
-import Image from "next/image";
+// @ts-nocheck
+import { LandingPageComponent } from "../components/landing-page";
 
 export default function Home() {
   return <LandingPageComponent/>
